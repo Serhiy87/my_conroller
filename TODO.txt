@@ -1,5 +1,5 @@
 1.RS-485 +
 2.UART +
 3.clock+battery +
-4.1-wire
+4.1-wire +
 5.Connectors
